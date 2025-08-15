@@ -37,4 +37,6 @@ Cara Menjalankan:
 Lisensi:
 Proyek ini dikembangkan untuk keperluan edukasi dan eksplorasi teknologi AI dalam penerjemahan. Bebas digunakan dan dimodifikasi sesuai kebutuhan.
 
+link video demo: https://drive.google.com/file/d/1rGTBxYi_fVEXyTErVIlsORrtaonZTo6M/view?usp=sharing
+
 Dibuat oleh: Bayu Aji Utomo
